@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Gaseosa",
+    "price": 30,
+    "thumbnail": "http:imagen.com"
+  },
+  {
+    "id": 2,
+    "title": "cerveza",
+    "price": 300,
+    "thumbnail": "http:imagen2.com"
+  },
+  {
+    "id": 3,
+    "title": "casa",
+    "price": 3000000,
+    "thumbnail": "http:imagen3.com"
+  }
+]
